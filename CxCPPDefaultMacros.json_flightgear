@@ -1,0 +1,17 @@
+{
+    "standards": {
+		"GCC": {
+			"__DATE__": "\"??? ?? ????\"",
+			"__TIME__": "\"??:??:??\""
+		}
+	},
+    "compilers": {},
+    "libraries": {
+		"SimGear": {
+			"SG_USING_STD(x)": "std::x"
+		}
+	},
+    "operating_systems": {},
+    "architectures": {},
+    "custom": {}
+}
